@@ -1,0 +1,1 @@
+Template config files for a new project using Webpack, ESlint and Babel
